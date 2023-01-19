@@ -1,3 +1,4 @@
+
 Для получения файла с помощью команды curl, попробуйте команду: curl -u admin:pass http://localhost/file.txt .
 Для получения файла с помощью команды telnet, попробуйте команду:
 echo 'login:pass' | openssl base64 -base64
